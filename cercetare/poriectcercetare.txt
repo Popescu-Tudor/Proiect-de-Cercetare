@@ -1,0 +1,6 @@
+Author: Tudor Popescu
+Subiect: Performance Analysis of RPA Technologies
+Classifications:
+		AMS(2020):68U04
+		ACM(1998):H.4.1
+keywords: automation, performance, UIPATH, POWERAUTOMATE
